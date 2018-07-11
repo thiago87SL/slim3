@@ -1,0 +1,17 @@
+{
+    "name": "thiago87SL/slim3",
+    "authors": [
+        {
+            "name": "Thiago da Silva Leite",
+            "email": "pjm.pcm.acm.tmm@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"    
+    },
+    "autoload": {
+        "psr-4": {
+            "myapp\\": "myapp"
+        }
+    }
+}
